@@ -1,0 +1,14 @@
+﻿  Main.cpp
+C:\Users\night\Desktop\CS330\Project1\Main.cpp(311,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\night\Desktop\CS330\Project1\Main.cpp(496,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\night\Desktop\CS330\Project1\Main.cpp(497,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\night\Desktop\CS330\Project1\Main.cpp(501,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\night\Desktop\CS330\Project1\Main.cpp(502,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\night\Desktop\CS330\Project1\Main.cpp(504,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\night\Desktop\CS330\Project1\Main.cpp(505,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\night\Desktop\CS330\Project1\Main.cpp(515,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\night\Desktop\CS330\Project1\Main.cpp(737,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\night\Desktop\CS330\Project1\Main.cpp(783,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\night\Desktop\CS330\Project1\Main.cpp(788,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\night\Desktop\CS330\Project1\Main.cpp(908,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\night\Desktop\CS330\Project1\Debug\Project1.exe
